@@ -1,4 +1,8 @@
 public class Stars
 {
-    System.out.print(""*****milky way ****"");
+    public void star()
+    {
+
+    System.out.print("*****milky way ****");
+}
 }
