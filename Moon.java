@@ -4,6 +4,7 @@ public class Moon
     {
         System.out.println("***Full Moon***");
         System.out.println("***New Moon***");
+        System.out.println("***No moon***");
 
     }
 }
