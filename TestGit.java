@@ -1,5 +1,5 @@
 public class TestGit {
     public void test1(){
-        System.out.println("Hi Sell");
+        System.out.println("Hi human");
     }
 }
