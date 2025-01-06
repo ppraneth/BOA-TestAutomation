@@ -5,4 +5,8 @@ public class TestGit {
     public void tempos(){
         System.out.println("Hi how are you");
     }
+    public void test(){
+        System.out.println("Hi there");
+    }
+
 }
